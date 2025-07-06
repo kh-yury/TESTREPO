@@ -47,3 +47,5 @@ function abbrevName(name){
 Objectives:
 -
 Implemented new procedures and technologies that improved efficiency and streamlined operations.
+
+1. Change.
