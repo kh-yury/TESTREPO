@@ -1,0 +1,13 @@
+1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md
+2. Screenshot:
+
+3. Deploy: https://kh-yury.github.io/rsschool-cv/
+4. Done 11.07.2025 / deadline 14.07.2025
+5. Score: 100 / 100
+- [x] In your GitHub account, create a public repository with the name rsschool-cv. In the main branch of this repository (main), there should be only one file, README.md.
+- [x] Create a branch gh-pages from the main branch.
+- [x] During the work on the project, you need to make at least 3 commits in the gh-pages branch. According to the commit guideline, the name of each commit should start with one of the listed prefixes: init:, feat:, fix:, refactor:, docs:.
+- [x] In the gh-pages branch, place the cv.md file.
+- [x] Using the markdown language in the cv.md file, create your CV. The requirements for the CV content and recommendations for its preparation are listed in the task description.
+- [x] In the README.md file of the gh-pages branch, add a link like https://GITHUB-USERNAME.github.io/rsschool-cv/cv, replacing GITHUB-USERNAME with your GitHub username. This link should open the CV page deployed on GitHub Pages.
+- [x] Create a Pull Request from the gh-pages branch to the main branch. The title of the Pull Request should be Markdown & Git. Follow the Pull Request description template. Do not merge the Pull Request from the gh-pages branch to the main branch.
